@@ -1,0 +1,78 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Differentiator (3.1.0)
+  - Kingfisher (5.7.1)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - Moya/RxSwift (13.0.1):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - Realm (3.17.3):
+    - Realm/Headers (= 3.17.3)
+  - Realm/Headers (3.17.3)
+  - RealmSwift (3.17.3):
+    - Realm (= 3.17.3)
+  - Result (4.1.0)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxDataSources (3.1.0):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxKingfisher (0.6.0):
+    - Kingfisher (~> 5)
+    - RxCocoa (~> 4.3)
+    - RxSwift (~> 4.3)
+  - RxRealm (0.7.6):
+    - RealmSwift (~> 3.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.5.0)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Moya/RxSwift (~> 13.0)
+  - Realm
+  - RealmSwift
+  - RxCocoa (~> 4)
+  - RxDataSources (~> 3.0)
+  - RxKingfisher
+  - RxRealm
+  - RxSwift (~> 4)
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Differentiator
+    - Kingfisher
+    - Moya
+    - Realm
+    - RealmSwift
+    - Result
+    - RxCocoa
+    - RxDataSources
+    - RxKingfisher
+    - RxRealm
+    - RxSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ceb123cfeef758ac73979feab6d37669a989d95a
+  Differentiator: df0b5bc7348314cbbde48bcdfa61f9db0ffd0ee9
+  Kingfisher: 176d377ad339113c99ad4980cbae687f807e20fe
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  Realm: 5a1d9d47bfc101dd597668b1a8af4288a2557f6d
+  RealmSwift: b7fdc2d18616621c31df5c7a398a45a2163f8eb0
+  Result: 6ee5f7df63f0f96ede62ecd674d22324cd3a50de
+  RxCocoa: 15f1f629de2461a6cee77f14bc8798305bb1d1b6
+  RxDataSources: 611168b70748855c9ffeb572f96acaa8ea34f2cf
+  RxKingfisher: dec802b7c2e1609f50a862e100f5e2019d517c4c
+  RxRealm: f04b96c34181f76b11ac1eca6f27e81af457edd3
+  RxSwift: 84b53dd33b2359c4fbdc84a7af33127310a003e3
+  SwiftyJSON: 58f5e2faedded0d4d222e85f7fed37bb6ee58ff1
+
+PODFILE CHECKSUM: 2d10d34f32aac8b0a568e4a63cf3de569668dda6
+
+COCOAPODS: 1.6.1

@@ -1,0 +1,15 @@
+platform :ios, '10.0'
+use_frameworks!
+
+target 'NewsFeed' do
+  pod 'RxSwift', '~> 4'
+  pod 'RxCocoa', '~> 4'
+  pod 'Moya/RxSwift', '~> 13.0'
+  pod 'RxDataSources', '~> 3.0'
+  pod 'Alamofire'
+  pod 'Realm'
+  pod 'RealmSwift'
+  pod 'RxRealm'
+  pod 'SwiftyJSON'
+  pod 'RxKingfisher'
+end
